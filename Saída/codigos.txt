@@ -1,0 +1,10 @@
+ Código compilados  com sucesso ! 
+
+ Erros  léxicos 
+Não foram encontrados erros Léxicos!
+
+  Erros sintáticos 
+Não foram encontrados erros Sintáticos!
+
+   Erros semânticos 
+Não foram encontrados erros Semânticos!

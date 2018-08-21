@@ -1,0 +1,17 @@
+ Código compilados  com sucesso ! 
+
+ Erros  léxicos 
+Não foram encontrados erros Léxicos!
+
+  Erros sintáticos  
+Erro - Palavra Reservada não encontrada na linha 1.
+Erro - Palavra Reservada não encontrada na linha 70.
+Erro - Delimitador ';' não encontrado na linha 72.
+Erro - Palavra Reservada não encontrada na linha 74.
+Erro - Palavra Reservada não encontrada na linha 77.
+Erro - Palavra Reservada não encontrada na linha 79.
+Erro - Palavra Reservada não encontrada na linha 90.
+Erro - Palavra Reservada não encontrada na linha 92.
+
+   Erros semânticos 
+Não foram encontrados erros Semânticos!

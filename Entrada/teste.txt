@@ -1,0 +1,118 @@
+const {
+
+
+    int a = 1, b = 2, c = 3;
+
+    int d = 4;
+
+}
+
+
+
+var {
+
+
+    float f = 3.0;
+
+    int abc = 542;
+
+    string e = "asdwqe";
+
+}
+
+
+
+function int teste (int a, int b, string c) {
+
+
+
+    if (2 < 3) then {
+
+
+        return e;
+
+    }
+
+
+    return "blabla";
+
+}
+
+
+
+procedure abc (int a, int b, string c) {
+
+
+    var {
+
+
+        int e = 2;
+
+        bool t = false;
+
+    }
+
+
+
+    print (e, t);
+
+}
+
+
+
+
+start () {
+
+
+    var {
+
+        int f = 2;
+
+    }
+
+
+
+    if (f == true) then {
+
+        
+	print ("hello");
+
+
+
+        while (t > 1) {
+
+
+            print (b);
+
+        }
+
+    }
+ else {
+
+
+        scan (a);
+
+    }
+
+
+
+    a[2] = 2 + 2;
+
+
+    var {
+
+        s p;
+
+    }
+
+
+    print (p, asd);
+
+}
+
+
+
+// exemplo de teste do lexico
+
+
+/* exa869 mi processadores de linguagem de programacao*/

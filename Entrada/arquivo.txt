@@ -1,0 +1,103 @@
+const {
+
+    int fator = 40;
+}
+
+struct pessoas {
+
+    string nome;
+
+    int idade;
+
+    double peso;
+}
+
+start() {
+
+    var { int valor; }
+
+    valor = 10;
+
+    valor = (fator*valor*soma(valor, 4))/40;
+
+    var { pessoa pessoas[10]; }
+
+    var { string nome; }
+
+    var { int i = 0, x=0; }
+
+    var { double peso = 0; }
+
+    var { string texto = "Digite"; }
+
+    while(i < 10) {
+
+        printf(texto, texto);
+
+        scanf(nome);
+
+        printf(texto);
+
+        scanf(x);
+
+        printf(texto,x);
+
+        scanf(peso);
+
+        pessoa[i].nome=nome;
+
+        pessoa[i].idade=x;
+
+        pessoa[i].peso=peso;
+
+        x++;
+
+        printf(pessoa[i].idade, pessoa[i].peso);    
+    }
+
+    nome = "a";
+
+    while(nome=="a") {
+
+        print(nome);
+
+        scan(nome);
+
+        teste(nome);    
+    }
+}
+
+function int somar(int x, int y) {
+
+	var { int soma = 8; }
+
+	return x;
+
+
+procedure teste(string teste) {
+
+    var { string outro = teste+teste; }
+
+    if(teste==outro) then {
+
+        print(teste);
+    } else {
+
+        print(teste, teste);
+    }
+}
+
+function int getSomar() {
+
+    var { 
+    
+        int x;
+        int y, soma;
+    }
+
+    scan(x,y);
+
+    soma = somar(x,y);
+
+    print(soma);
+}

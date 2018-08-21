@@ -1,0 +1,381 @@
+const {
+
+    int max1 = 10, max2 = 20;
+
+    float pi = 3.1415;
+
+    string msg = "mensagem teste";
+
+    bool flag = true;
+
+    float taxa;
+
+}
+
+procedure imprimir () {
+
+        var{ 
+            int max1 = 10, max2 = 20;
+
+            float pi = 3.1415;
+
+            string msg = "mensagem teste";
+
+            bool flag = true;
+
+            float taxa;
+        }
+}
+
+var {
+
+    int max1 = 10, max2 = 20;
+
+    float pi = 3.1415;
+
+    string msg = "mensagem teste";
+
+    bool flag = true;
+
+    float taxa;
+
+    aluno alunos;
+
+}
+
+
+
+procedure imprimir () {
+
+	var {
+
+            int max1 = 10, max2 = 20;
+
+            float pi = 3.1415;
+
+            string msg = "mensagem teste";
+
+            bool flag = true;
+            float taxa;
+
+	}
+
+}
+
+var {
+
+    float pi[1] = 3.1415;
+
+    int max1 [][] = 10, max2 = 20;
+
+    string msg[] = "mensagem teste";
+
+    bool flag[] = true;
+
+    float taxa[];
+
+    aluno vetor_alunos[];
+
+}
+
+
+
+procedure imprimir () {
+
+
+	var {
+    
+            float pi[1] = 3.1415;
+            int max1 [][] = 10, max2 = 20;
+            string msg[] = "mensagem teste";               
+            bool flag[] = true;
+            float taxa[];
+            aluno vetor_alunos[];
+
+	}
+}
+
+struct pessoa {
+
+        
+        string nome, endereco;
+
+        int idade;
+
+        float salario, despesa;
+       
+
+}
+    
+
+
+struct aluno extends pessoa {
+
+
+    string curso;
+
+    int matricula;
+
+    float bolsa;
+ 
+    int valores[];
+
+    float taxas[][];
+
+    pessoa eu_mesmo;
+
+}
+
+
+typedef aluno teste;
+
+
+typedef float flutuante;
+
+
+typedef int inteiro;
+
+
+procedure imprimir (Taluno x[]) {
+
+
+    	var {
+
+
+        	int i;  
+    
+    	}
+    
+    
+
+	i = 0;
+
+	while (i < 10) {
+
+        	print(x[i].nome, x[i].endereco, x[i].idade, x[i].salario, x[i].despesa, x[i].curso, x[i].matricula, x[i].curso, x[i].bolsa);
+
+        	i++;        
+    
+	}  
+
+
+}
+
+
+
+procedure imprimir () {
+
+
+
+    print("imprimindo dados do aluno");
+
+    print(x.nome, x.endereco, x.idade, x.salario, x.despesa, x.curso, x.matricula, x.curso);
+
+
+}
+
+function real calcula_aumento_bolsa (real bolsa, real juros) {
+
+
+	var {
+
+
+        	real result;
+
+	}
+
+
+	result = bolsa + (bolsa * juros);
+
+    	return(result);
+
+}
+	
+
+
+function flutuante soma (real a, real b) {
+
+ 
+
+    return (a + b * max / 2.5 - cont-- - vetor[1] / aluno.nota);
+
+}
+
+
+
+start() {
+
+
+	if (i > j) then {
+
+    
+    
+}
+ else {
+
+
+    
+    }
+
+
+    
+    if (i > j) then {
+
+
+     
+   }   
+
+}
+
+
+
+start() {
+
+
+     
+   while (i > j) {
+
+    
+
+    }
+
+}
+
+start() {
+
+	scan(soma, vetor[i], matriz[i][j]);
+  
+    	scan(soma, vetor[i], matriz[i][j], aluno.nome, alunos[i].nome, mais_alunos[i][j][k].nota);
+
+}
+
+
+
+
+
+start() {
+
+
+
+    print("teste do comando print", soma, vetor[i], matriz[i][j]);
+
+    print("teste do comando print", soma, vetor[i], matriz[i][j], aluno.nome, alunos[i].nome, mais_alunos[i][j][k].nota);
+
+}
+
+
+
+start() {
+
+
+
+    soma = 10.99;
+
+    soma = Max;
+
+    soma[j] = vetor[i]++;
+
+    soma[i][j][k] = matrizmatriz[10][max][30];
+
+    
+soma.nota = aluno.nota;
+
+    soma[1].nota[1] = aluno[10].nota[1];
+
+    cont = cont++;
+
+    
+soma++;
+
+    soma--;
+
+    
+soma = calculo(a, b, valores[k], matriz[10][max][superior]);
+
+    soma = Max();
+
+
+}
+
+
+start() {
+
+
+
+    soma = vetor[i] + matriz[10][max][30] * Max / (aluno.nota * 10);
+
+    
+resultado = 0.5 * (calcular(a,b) + 10.75 * vetor[10].valor) / (5 + max / -2 - -2 + cont++);
+
+}
+
+
+
+start() {
+
+
+
+   	if ( (a > b) && (c < d) ) then {
+
+	}
+
+
+   
+   	if ( a > b && c < d || e < f && !h ) then {
+	}
+
+
+   
+   	if (!(a > b) && c < d) then {
+
+	}
+
+
+   
+ 	if ( (a+b) > (c+d) ) then {
+
+	}
+
+
+   
+   	if ( (a+b) > (c+d) ) then {
+
+	}
+   
+   
+
+	if (a+b) then {
+
+	}   
+
+	// n�o deveria permitir!!!
+
+
+   
+   	while (a+b) {
+
+	}
+
+	// n�o deveria permitir!!!
+
+
+   
+   	a = !10;  
+	// aqui considerei sintaticamente correto. o erro � sem�ntico (tipos incompat�veis)
+
+   
+
+	a = 10 && 10; 
+	// aqui considerei sintaticamente correto. o erro � sem�ntico (tipos incompat�veis)
+
+
+	
+	a = a || a; 
+	// aqui considerei sintaticamente correto. o erro � sem�ntico (tipos incompat�veis)
+
+
+
+   	a = aluno.nome && aluno.matricula; 
+	// aqui considerei sintaticamente correto. o erro � sem�ntico (tipos incompat�veis)
+
+}

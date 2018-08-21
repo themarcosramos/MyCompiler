@@ -1,0 +1,49 @@
+start () {
+
+
+    var {
+
+
+        int f = 2;
+
+    }
+
+
+
+    if (f > 5) then {
+
+
+        print ("hello");
+
+
+        while (t > 1) {
+
+
+            print (b);
+
+        }
+
+    } else {
+
+
+        scan (a);
+
+    }
+
+
+
+    a[2] = 2 + 2;
+
+
+
+    var {
+
+        s p;
+
+    }
+
+
+
+    print (p, asd);
+
+}
